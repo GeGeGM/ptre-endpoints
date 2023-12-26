@@ -55,3 +55,7 @@ JSON with:
 - code (success if "1")
 - message
 - message_debug
+
+## Debug
+
+Check galaxy data via the [Galaxy Debug Page](https://ptre.chez.gg/?page=galaxy_debug). Raw import is available, plus data generated after galaxy interpretation (via public API and Team's custom data).
